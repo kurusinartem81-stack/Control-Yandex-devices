@@ -1,0 +1,25 @@
+{
+  "music_token": "y0__wgBEPecr_wHGN74BiCq7K3HGTD4vOr9Bw9CfHCf9sWY0tmnQFh4SklLJQGk",
+  "default_device": "pickle",
+  "volume": 0.35,
+  "devices": {
+    "pickle": {
+      "name": "Мини 3 про",
+      "device_id": "M0PS7700010H5K",
+      "platform": "pickle",
+      "host": "192.168.0.104"
+    },
+    "mini2": {
+      "name": "Мини Яны",
+      "device_id": "M108PQ2009AMYG",
+      "platform": "yandexmini_2",
+      "host": "192.168.0.103"
+    },
+    "test": {
+      "name": "имя которое должно отображаться в приложении, называйте как хотите",
+      "device_id": "модель вашей колонки, написан снизу колонки, в строке DID",
+      "platform": "чип, заводское имя вашей колонки, например: yandexmini_2",
+      "host": "ip вашей колонки, смотрите в роутере"
+    }
+}
+}
